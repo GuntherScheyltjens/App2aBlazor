@@ -18,6 +18,7 @@ using System.Threading.Tasks;
 
 namespace BlazorPortal
 {
+    //allo
     public class Startup
     {
         public Startup(IConfiguration configuration)
